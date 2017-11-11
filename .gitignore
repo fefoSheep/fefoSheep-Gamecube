@@ -1,0 +1,9 @@
+## Build files
+build/
+*.d
+*.o
+*.map
+
+## Executable files
+*.elf
+*.dol
