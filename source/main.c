@@ -14,7 +14,7 @@ int main(int argc, char **argv) {
 
 	xfb = Initialise();
 
-	printf("v1.5.1\n");
+	printf("v1.6.0\n");
 	printf("downloa fefoshep form gothu!!!\n");
 	sleep(6);
 	printf("downloa compete!! now instalin!\n");
@@ -22,6 +22,8 @@ int main(int argc, char **argv) {
 	printf("isntal compete! nowa downloa gacube friig am!!!\n");
 	sleep(6);
 	printf("now downloa frii wii and ds gam for gacube\n");
+	sleep(6);
+	printf("expand clongo\n");
 	sleep(6);
 	printf("downloa ps2 frii gam port for gacube too\n");
 	sleep(6);
